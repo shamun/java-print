@@ -1,0 +1,35 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>/home/sun/NetBeansProjects/print/dist/print.jar</jar>
+  <outfile>/home/sun/NetBeansProjects/print/exe/test.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest>/home/sun/NetBeansProjects/print/manifest.mf</manifest>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <maxHeapPercent>50</maxHeapPercent>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.1.1.1</fileVersion>
+    <txtFileVersion>a</txtFileVersion>
+    <fileDescription>1</fileDescription>
+    <copyright>1</copyright>
+    <productVersion>1.1.1.1</productVersion>
+    <txtProductVersion>1</txtProductVersion>
+    <productName>1</productName>
+    <companyName>1</companyName>
+    <internalName>1</internalName>
+    <originalFilename>esko.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
